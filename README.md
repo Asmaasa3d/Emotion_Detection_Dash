@@ -34,7 +34,7 @@ For a more detailed explanation of the project, visit the following link:
 > * Blog post: <a href="https://neuraspike.com/blog/training-emotion-detection-system-pytorch/" rel="nofollow">linked post</a> 
 
 
-Made by <a href="https://github.com/Asmaasa3d" rel="nofollow"> Asmaa Saeed</a> & <a href="https://github.com/FatemaSamir" rel="nofollow">Fatema Samir</a>  
+Made by <a href="https://github.com/Asmaasa3d" rel="nofollow"> Asmaa Saeed ♥️</a> & <a href="https://github.com/FatemaSamir" rel="nofollow">Fatema Samir ♥️</a>  
 
 
 
