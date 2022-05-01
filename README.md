@@ -1,11 +1,8 @@
 # Real-time-Emotion-Detection-Dashboard
-Our Data visualization project at <a href="https://www.linkedin.com/school/information-technology-institute-iti-/" rel="nofollow">Information Technology Institute (ITI)</a>
-A pretrained model is used to dectect emotion then results  displayes in a bar plot and time line using plotly dash.
+> * Our Data visualization project at <a href="https://www.linkedin.com/school/information-technology-institute-iti-/" rel="nofollow">Information Technology Institute (ITI)</a>
+> * A pretrained model is used to dectect emotion then results  displayes in a bar plot and time line using plotly dash.
 
 
-## Dataset
-
-I've used the Facial Expression Recognition 2013 (FER2013) dataset, for this example. You can download it: <a href="https://www.kaggle.com/msambare/fer2013" rel="nofollow">here</a>
 
 
 ## Install
